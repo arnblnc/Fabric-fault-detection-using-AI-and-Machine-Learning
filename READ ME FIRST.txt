@@ -1,0 +1,14 @@
+If you want to test the object detector, you can do it in three ways:
+	- Open  Evaluate.mlx and run the first three lines of code
+	- Or a create new live editor and load trainingDetector.mat and run the line of code: 
+		detectionResults = detect(trainingDetector,testData);
+	- Or open TestingImages.mlx, load imdsTest and change the value of n between the values of 1-270
+
+To recreate the program from scratch like methodology, run the following .mlx files in order:
+	1) Database
+	2) Network
+	3) Data_Augmentation
+	4) Train_Network
+
+	 
+
