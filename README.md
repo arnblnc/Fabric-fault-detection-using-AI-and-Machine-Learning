@@ -1,5 +1,6 @@
 # Fabric-fault Detection using AI and Machine Learning
 Hi! This repository contains the files for my Major Individual Project in my undergraduate
+(The dataset was labelled and gathered by me)
 
 # MATLAB toolboxes required
 - Deep Learning Toolbox
